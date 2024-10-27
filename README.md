@@ -11,8 +11,8 @@ This repository contains assignments and projects for the CSE 584 course. The fo
 
 ### 1. Assignments
 - **Assignment 1**: Active Learning Paper Review
-- **Assignment 2**: --
+- **Assignment 2**: Reinforcement Learning Implementation Explanation
 
 ### 2. Projects
-- **Mid-term Project**: --
+- **Mid-term Project**: LLM Text Completion Classifier: https://github.com/a-shah1200/MidTerm-Project/
 - **Final Project**: --
